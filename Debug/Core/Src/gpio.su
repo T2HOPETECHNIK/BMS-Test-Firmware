@@ -1,0 +1,4 @@
+gpio.c:44:6:MX_GPIO_Init	48	static
+gpio.c:142:6:bal_bat_get	8	static
+gpio.c:222:6:bal_bat_update	16	static
+gpio.c:250:6:bms_LED_update	16	static
